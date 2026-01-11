@@ -9,6 +9,10 @@ A simple and elegant todo list app built with Flutter.
 
 # run app
 
+cd /Users/jerryliu/todo_app_flutter
+flutter pub get
+flutter run -d chrome
+
 #------------
 # debug cmd
 #------------
