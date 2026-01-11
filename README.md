@@ -2,6 +2,22 @@
 
 A simple and elegant todo list app built with Flutter.
 
+## Cmd
+
+```bash
+# build
+
+# run app
+
+#------------
+# debug cmd
+#------------
+```
+
+## Ref
+
+- https://ithelp.ithome.com.tw/users/20119550/ironman/2221
+
 ## Features
 
 - Add new tasks with a text field
